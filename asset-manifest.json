@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bae_veterinary_frontend/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/bae_veterinary_frontend/static/js/main.a538c3aa.chunk.js",
-    "main.js.map": "/bae_veterinary_frontend/static/js/main.a538c3aa.chunk.js.map",
-    "runtime-main.js": "/bae_veterinary_frontend/static/js/runtime-main.3d71b696.js",
-    "runtime-main.js.map": "/bae_veterinary_frontend/static/js/runtime-main.3d71b696.js.map",
-    "static/js/2.d1c91a66.chunk.js": "/bae_veterinary_frontend/static/js/2.d1c91a66.chunk.js",
-    "static/js/2.d1c91a66.chunk.js.map": "/bae_veterinary_frontend/static/js/2.d1c91a66.chunk.js.map",
-    "static/js/3.86f65f43.chunk.js": "/bae_veterinary_frontend/static/js/3.86f65f43.chunk.js",
-    "static/js/3.86f65f43.chunk.js.map": "/bae_veterinary_frontend/static/js/3.86f65f43.chunk.js.map",
+    "main.css": "/bae_veterinary_frontend/static/css/main.a617e044.chunk.css",
+    "main.js": "/bae_veterinary_frontend/static/js/main.daa4b993.chunk.js",
+    "main.js.map": "/bae_veterinary_frontend/static/js/main.daa4b993.chunk.js.map",
+    "runtime-main.js": "/bae_veterinary_frontend/static/js/runtime-main.f0a11a88.js",
+    "runtime-main.js.map": "/bae_veterinary_frontend/static/js/runtime-main.f0a11a88.js.map",
+    "static/js/2.972c2f3b.chunk.js": "/bae_veterinary_frontend/static/js/2.972c2f3b.chunk.js",
+    "static/js/2.972c2f3b.chunk.js.map": "/bae_veterinary_frontend/static/js/2.972c2f3b.chunk.js.map",
+    "static/js/3.fd876b36.chunk.js": "/bae_veterinary_frontend/static/js/3.fd876b36.chunk.js",
+    "static/js/3.fd876b36.chunk.js.map": "/bae_veterinary_frontend/static/js/3.fd876b36.chunk.js.map",
     "index.html": "/bae_veterinary_frontend/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/bae_veterinary_frontend/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d1c91a66.chunk.js.LICENSE.txt": "/bae_veterinary_frontend/static/js/2.d1c91a66.chunk.js.LICENSE.txt",
+    "static/css/main.a617e044.chunk.css.map": "/bae_veterinary_frontend/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.972c2f3b.chunk.js.LICENSE.txt": "/bae_veterinary_frontend/static/js/2.972c2f3b.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/bae_veterinary_frontend/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d71b696.js",
-    "static/js/2.d1c91a66.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a538c3aa.chunk.js"
+    "static/js/runtime-main.f0a11a88.js",
+    "static/js/2.972c2f3b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.daa4b993.chunk.js"
   ]
 }
